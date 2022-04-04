@@ -13,4 +13,5 @@ You can join our <a href="https://discord.gg/dev-community">Discord</a> to be at
 </p>
 
 <h3>Our open-source projects:</h3>
-* [Repositories](https://github.com/orgs/development-community/repositories)
+
+* <a href="https://github.com/orgs/development-community/repositories">Repositories</a>
