@@ -1,9 +1,16 @@
-![Development Community organization](https://media.discordapp.net/attachments/914956240050872401/914956612639293531/banner_development_community.png?width=1342&height=671) 
+![Development Community organization](https://media.discordapp.net/attachments/914956240050872401/914956612639293531/banner_development_community.png?width=900&height=371)
 
-## Rester connecté
+## About us:
+Development Community is a branch of Development, a project created by <a href="https://github.com/SUPRAZY-DEV">Suprazy</a> and administered by <a href="https://github.com/Cyrnax24">Cyrnaxx</a>, <a href="https://github.com/booleans-oss">Booleans</a> and <a href="https://github.com/Hesedi3l">Hesediel</a>. This project brings together a diverse team of developers to help our community with their programming or computing experience. We are based on Discord with whom we are partners.
 
-Dès à présent, vous pouvez suivre notre projet open-source. Vous pouvez entièrement contribuer au projet du groupe, y faire des suggestions.
+## Connect with us:
+You can join our [Discord](https://discord.gg/dev-community) to be at the forefront of our community, for special requests we prefer <a href="mailto:suport@dev-community.tech">emails</a>. You can follow our tutorials and courses on <a href="https://youtube.com/DevelopmentCommunityFR">Youtube</a>.
 
-* [Projets open-source](https://github.com/development-community)
+## Partners:
+<p align="left">
+<a href="https://discord.com/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="discord" width="40" height="40"/></a>
+<a href="https://discord.com/invite/cafedesdevs"><img src="https://media.discordapp.net/attachments/859164683834490944/960442600706420786/a_85f8d29288d678dab45fd9332d8555bd.webp" alt="cafedesdevs" width="40" height="40"/></a>
+</p>
 
-Visite notre [Discord](discord.gg/dev-community) pour en savoir plus !
+## Our open-source projects:
+* [Repositories](https://github.com/orgs/development-community/repositories)
