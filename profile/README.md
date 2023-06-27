@@ -14,4 +14,4 @@ You can join our <a href="https://discord.gg/dev-community">Discord</a> to be at
 <h3>Our open-source projects:</h3>
 
 * <a href="https://github.com/orgs/development-community/repositories">Repositories</a>
-* <a href="https://www.youtube.com/@DevelopmentCommunityFR/videos">Last videos</a>
+* <a href="https://www.youtube.com/@DevelopmentCommunityFR/videos" target="_blank">Last videos</a>
